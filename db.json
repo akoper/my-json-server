@@ -1,0 +1,34 @@
+[
+  {
+		"game": "Call_of_Duty_Modern_Warefare",
+		"platforms": {
+			"playstation": "up",
+			"Nintendo": "up",
+			"XBox": "down"
+		}
+	},
+	{
+		"game": "Crash_Bandicoot",
+		"platforms": {
+			"playstation": "down",
+			"Nintendo": "up",
+			"XBox": "up"
+		}
+	},
+	{
+		"game": "Call_of_Duty_WWII",
+		"platforms": {
+			"playstation": "up",
+			"Nintendo": "up",
+			"XBox": "up"
+		}
+	},
+	{
+		"game": "Skylanders",
+		"platforms": {
+			"playstation": "down",
+			"Nintendo": "down",
+			"XBox": "down"
+		}
+	}
+]
